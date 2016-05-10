@@ -16,7 +16,5 @@ https://sync-v1.curseapp.net/help
 
 https://polls-v1.curseapp.net/help
 
-https://sync-v1.curseapp.net/help
-
 https://conversations-v1.curseapp.net/help
 
