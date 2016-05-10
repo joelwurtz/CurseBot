@@ -19,3 +19,11 @@ https://polls-v1.curseapp.net/help
 https://conversations-v1.curseapp.net/help
 
 https://logins-v1.curseapp.net/help
+
+# Tips
+
+## Token
+
+Token is retrieved using the login api : https://logins-v1.curseapp.net/Help/Api/POST-login
+
+Once you have a token, you can use other APIs by setting the `AuthenticationToken` header in requests with value comming from the login call.
