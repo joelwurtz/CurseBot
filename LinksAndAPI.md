@@ -18,3 +18,4 @@ https://polls-v1.curseapp.net/help
 
 https://conversations-v1.curseapp.net/help
 
+https://logins-v1.curseapp.net/help
