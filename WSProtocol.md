@@ -90,3 +90,71 @@ Body: TODO
 Answer received by the client after a -2124552136 to define if the message have been sended, or not.
 
 Body: TODO
+
+### -342895375
+
+Mark Read Request?
+
+### -1422086075
+
+Health check request?
+
+### -1669214322
+
+Call Notification?
+
+### -1145188782
+
+Call responded notification?
+
+### -695526586
+
+Conversation read notification?
+
+### 738704822
+
+External Community link changed notification?
+
+### 580569888
+
+Friendship change notification?
+
+### 1216900677
+
+Friendship removed notification?
+
+### -1001397130
+
+Friend suggestion notification?
+
+### 149631008
+
+Group change notification?
+
+### 1519023790
+
+Group giveaway changed notification?
+
+### -1519023790
+
+Group giveaway settings notification?
+
+### -1732183626
+
+Group invitation notification?
+
+### -1942550100
+
+Group poll changed notification?
+
+### -34150280
+
+Group poll settings notification?
+
+### 72981382
+
+Group preference notification?
+
+### -1641871686
+
+User client settings notification?
