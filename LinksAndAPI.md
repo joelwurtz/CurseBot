@@ -20,6 +20,8 @@ https://conversations-v1.curseapp.net/help
 
 https://logins-v1.curseapp.net/help
 
+https://images.curseapp.net/Help
+
 # Tips
 
 ## Token
